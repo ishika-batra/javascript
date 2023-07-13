@@ -13,3 +13,5 @@
 - In callback hell, we need to setup everything within another callback function.
 
 ## Promises
+
+- Can have 3 values, pending, resolved and rejected.
