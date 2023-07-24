@@ -20,3 +20,7 @@ XMLHttpRequest.open(method, url[, async[, user[,password]]])
   C. Put method is used when we want to edit.
   D. Delete method is used when we want to delete something on that resource on the server.
 - Url gives the path to our resource.Ex- APi to the github, API to weather application, etc.
+
+## What is JSON?
+
+- JSON stands for javascript Object Notation.
